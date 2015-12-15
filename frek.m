@@ -1,5 +1,7 @@
 function ff=frek(nota,oktav)
-notalar=['A' 'a' 'B' 'b'];
+notalar=['C' 'c' 'D' 'e' 'E' 'F' 'f' 'G' 'g' 'A' 'b' 'B' ];
+%C=do, c=do#, D=re, e=mibemol, E=mi, F=Fa, f=Fa#, G=Sol, g=Sol#, A=la, 
+%b=sibemol, B=si 
 referans=16.35;
 p=length(notalar);
 
